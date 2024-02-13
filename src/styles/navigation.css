@@ -1,0 +1,26 @@
+
+.navbar-container > ul{
+  display: flex;
+  gap: 30px;
+  background-color:#0f0c29;
+  color: azure;
+  text-align: center;
+  justify-content: space-between;
+
+
+}
+ul{
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 14px 16px;
+ 
+}
+
+ul a{
+  text-decoration:none;
+}
+.foot {
+  display: flex;
+  gap: 30px;
+}

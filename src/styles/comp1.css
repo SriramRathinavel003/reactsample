@@ -1,0 +1,36 @@
+.parant{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to bottom, #0f0c29, #302b63, #24243e);
+    height: 600px; ;
+
+}
+.comp1{
+    padding: 90px;
+    text-align: justify;
+    width: 50vw;
+    height:500px;
+    color: aliceblue;
+}
+.paracomp{
+
+    color: rgb(248, 251, 255);
+}
+.bt1{
+    color: #ffff;
+    font-size:medium;
+    background-color: rgb(37,150,190);
+    padding: 2px;
+}
+.bt2{
+    color: #ffff;
+    font-size:medium;
+    background-color:#324052;
+    padding: 2px;
+}
+.buttonclass{
+    display: flex;
+    gap: 90px;
+    width: 500px;;
+}
